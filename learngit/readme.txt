@@ -6,4 +6,3 @@ Git has a mutable index called stage
 zhoupengfei  dev fenzhi
 hahhahahhhah
 
-hhhhthis is new branch!
